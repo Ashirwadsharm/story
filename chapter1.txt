@@ -1,1 +1,2 @@
-This is first chapter i.e chapter1.txt
+This is first chapter i.e chapter1.txt and learning git brarnching.
+
