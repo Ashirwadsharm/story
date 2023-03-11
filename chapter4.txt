@@ -1,0 +1,4 @@
+This file is created during learning of git branching.
+command for git branching
+1 git branch -to see the branches that are there with my master branch.
+2.git branch <branchname> -to create a new branchs
